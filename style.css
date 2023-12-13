@@ -185,4 +185,7 @@ br {
     .ContactItem > img {
         width: 15%;
     }
+    .ContactItem > p {
+        margin: 0%;
+    }
 }
